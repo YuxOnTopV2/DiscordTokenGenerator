@@ -5,6 +5,7 @@
 
 
 ```
+- [X] HCaptcha Solving
 - [X] Email Verified
 - [X] Number Verified
 - [X] Custom Name
