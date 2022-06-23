@@ -4,7 +4,7 @@
 
 - [X] Email Verified
 - [X] Number Verified
-- [X]] Custom Name
+- [X] Custom Name
 - [ ] HQ Name
 - [ ] HQ Avatar
 - [ ] HQ Bio
