@@ -1,6 +1,6 @@
 # YuxGen
 
-> https://discord.gg/ie
+> https://discord.gg/axe
 
 
 
