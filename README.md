@@ -7,7 +7,7 @@
 ```
 - [X] HCaptcha Solving
 - [X] Email Verified
-- [X] Number Verified
+- [ ] Number Verified
 - [X] Custom Name
 - [ ] HQ Name
 - [ ] HQ Avatar
