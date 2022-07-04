@@ -7,6 +7,7 @@
 ```
 - [X] HCaptcha Solving
 - [X] Email Verified
+- [X] Auto Proxies-Scrape
 - [ ] Number Verified
 - [X] Custom Name
 - [ ] HQ Name
