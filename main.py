@@ -5,7 +5,7 @@ import string
 import threading
 import requests
 import os
-import ascii2text
+import easyascii
 import time
 import json
 from fake_useragent import UserAgent
